@@ -21,7 +21,7 @@ export const Navbar = () => {
           <div><h1 className='text-gray-500  '>Company</h1></div>
           <div><h1 className='text-gray-500  '>FAQ</h1></div>
           <div><h1 className='text-gray-500  '>Help</h1></div>
-          <button className='w-[100px] h-[50px] rounded-md bg-gray-200 text-purple-900 text-xl'>Sign in</button>
+          <button className='w-[100px] h-[50px] rounded-md bg-gray-200 text-purple-900 text-xl font-semibold'>Sign in</button>
 
 
         </div>
