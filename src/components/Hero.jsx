@@ -8,7 +8,7 @@ import ndictwo from '../assests/NDICTWO.svg'
 
 const Hero = () => {
     return (
-        <div className='container mx-auto mt-[30px] md:mt-[90px]'>
+        <div className='container mx-auto pt-[30px] md:pt-[150px]'>
             <div className='flex flex-col sm:flex-col md:flex-row  md:justify-between space-y-7'>
                 <div>
                     <div className='space-y-5 px-5 sm:px-5 md:px-5 lg:px-5 xl:px-0 '>

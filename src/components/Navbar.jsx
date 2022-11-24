@@ -4,8 +4,8 @@ import { CgMenu } from 'react-icons/cg'
 
 export const Navbar = () => {
   return (
-    <div className='w-[100%] h-[90px] shadow-sm flex items-center'>
-      <nav className='container mx-auto flex justify-between px-5 sm:px-5 md:px-5 lg:px-5 xl:px-0'>
+    <div className='w-[100%] h-[90px] shadow-sm flex items-center z-10 fixed bg-white'>
+      <nav className='container mx-auto flex justify-between px-5 sm:px-5 md:px-5 lg:px-5 xl:px-0 '>
         <div className='flex justify-start space-x-10 items-center'>
           <div><img src={logo} alt='brand logo' /></div>
           <div className='hidden md:flex justify-start space-x-10 items-center'>

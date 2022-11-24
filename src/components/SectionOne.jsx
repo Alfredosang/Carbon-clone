@@ -1,5 +1,5 @@
 import React from 'react'
-import phone from '../assests/phone.png'
+import one from '../assests/one.png'
 import { FcNext } from 'react-icons/fc'
 
 const SectionOne = () => {
@@ -7,7 +7,7 @@ const SectionOne = () => {
         <div className='container mx-auto md:mt-[90px]'>
             <div className='flex flex-col sm:flex-col md:flex-row lg:flex-row  xl:flex-row  justify-center md:items-center md:justify-between lg:justify-between xl:justify-between'>
                 <div className='flex justify-center '>
-                    <img src={phone} alt='phone' className='w-[40rem] md:w-[40rem] ' />
+                    <img src={one} alt='phone' className='w-[40rem] md:w-[40rem] ' />
 
                 </div>
                 <div className='space-y-5 w-[40rem] px-7'>
