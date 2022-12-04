@@ -9,6 +9,8 @@ import SectionFive from '../components/SectionFive'
 import SectionSix from '../components/SectionSix'
 import SectionSeven from '../components/SectionSeven'
 import SectionEight from '../components/SectionEight'
+import SectionNine from '../components/SectionNine'
+import SectionTen from '../components/SectionTen'
 
 const Hompage = () => {
   return (
@@ -23,6 +25,8 @@ const Hompage = () => {
         <SectionSix />
         <SectionSeven />
         <SectionEight />
+        <SectionNine />
+        <SectionTen />
     </div>
   )
 }
